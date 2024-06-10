@@ -1,0 +1,11 @@
+.widget {
+    padding: 0 0 0.5rem 0.65rem;
+    margin-bottom: 0.5rem;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+  }
+
+  .widget p {
+    font-size: 0.75rem;
+    font-style: italic;
+  }
